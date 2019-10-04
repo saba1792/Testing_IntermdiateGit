@@ -1,7 +1,7 @@
 2 Bread
 Nutella
 Tomatoes
-5 Potato
+12 Potato
 Okra
 Onions
 PB & J
